@@ -1,0 +1,12 @@
+var c = document.getElementById("NM_INT_LEFT");
+c.remove();
+var c = document.getElementById("NM_TOP_BANNER");
+c.remove();
+var c = document.getElementById("promotion11");
+c.remove();
+var c = document.getElementById("footer");
+c.remove();
+var c = document.getElementById("NM_FAVORITE");
+c.remove();
+var c = document.getElementById("shopcast");
+c.remove();

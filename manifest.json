@@ -1,0 +1,14 @@
+
+{
+  "name": "Element Remover",
+  "version": "1.0",
+  "manifest_version": 2,
+  "content_scripts": [
+    {
+      "matches": ["https://www.naver.com/"],
+      "js": ["contnet.js"],
+      "run_at": "document_end"
+    }
+  ],
+  "permissions": ["https://www.naver.com/"]
+}
